@@ -2,3 +2,6 @@ pyrogram
 requests
 aiohttp
 tgcrypto
+beautifulsoup4
+pandas
+requests
