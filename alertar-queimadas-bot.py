@@ -14,7 +14,7 @@ app = Client(
 )
 
 # Carrega a tabela agregada em um DataFrame
-tabela_agregada = pd.read_csv(r"C:\Users\fabricio.silva\Documents\simple project\arquivos_ultimos_3_dias\tabela_filtrada.csv")
+tabela_agregada = pd.read_csv(r"tabela_filtrada.csv")
 
 # Função para normalizar textos
 def normalizar_texto(texto):
