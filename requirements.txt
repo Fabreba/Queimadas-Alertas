@@ -5,3 +5,4 @@ tgcrypto
 beautifulsoup4
 pandas
 requests
+rapidfuzz
